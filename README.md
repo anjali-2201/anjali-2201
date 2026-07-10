@@ -29,6 +29,8 @@
 [![Resume](https://img.shields.io/badge/%5B_Resume_%5D-050816?style=for-the-badge&labelColor=050816&color=5B8CFF&logo=googledrive&logoColor=5B8CFF)](https://drive.google.com/file/d/YOUR_RESUME_LINK/view)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%5B_LinkedIn_%5D-050816?style=for-the-badge&labelColor=050816&color=0A66C2&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anjali-sahu-2201)&nbsp;
 [![LeetCode](https://img.shields.io/badge/%5B_LeetCode_%5D-050816?style=for-the-badge&labelColor=050816&color=FFA116&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/anjali-2201)
+[![Email](https://img.shields.io/badge/Email-anjalisahu2201%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816)](mailto:anjalisahu0122@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-anjali--portfolio.vercel.app-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816)](mailto:anjalisahu0122@gmail.com) -->
 
 </div>
 
@@ -37,46 +39,6 @@
 ---
 
 <a name="character"></a>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  01 — CHARACTER                                                   -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+01+%5D+CHARACTER&fontSize=15&fontColor=5B8CFF&fontAlignY=65" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/stats.svg" width="100%" />
-</div>
-
-<br/><br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  02 — CURRENT QUEST                                               -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+02+%5D+CURRENT+QUEST&fontSize=15&fontColor=7C4DFF&fontAlignY=65" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/quest.svg" width="100%" />
-</div>
-
-<br/><br/>
-
----
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--  03 — INVENTORY                                                   -->
@@ -192,67 +154,3 @@
 </div>
 
 <br/><br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  08 — SAVE POINT                                                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+08+%5D+SAVE+POINT&fontSize=15&fontColor=7C4DFF&fontAlignY=65" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
-  <img src="https://img.shields.io/badge/Resume-View_%26_Download-5B8CFF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=050816" height="40" />
-</a>
-
-<br/><br/>
-
-<a href="https://anjali-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-anjali--portfolio.vercel.app-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816" height="40" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/anjali-sahu-2201/">
-  <img src="https://img.shields.io/badge/LinkedIn-Anjali_Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816" height="40" />
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/anjali-2201/">
-  <img src="https://img.shields.io/badge/LeetCode-anjali--2201-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=050816" height="40" />
-</a>
-
-<br/><br/>
-
-<a href="mailto:anjalisahu2201@gmail.com">
-  <img src="https://img.shields.io/badge/Email-anjalisahu2201%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816" height="40" />
-</a>
-
-</div>
-
-<br/><br/>
-
----
-
-<div align="center">
-
-<sub>
-  <code>anjali-2201</code> &nbsp;&middot;&nbsp;
-  <code>Software Engineer</code> &nbsp;&middot;&nbsp;
-  <code>Building in public</code>
-</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=100&section=footer" />
-
-</div>
