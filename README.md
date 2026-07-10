@@ -1,288 +1,209 @@
-﻿<!-- ============================================================ -->
-<!--              ANJALI SAHU — GitHub Profile README            -->
-<!-- ============================================================ -->
+﻿<!--
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  ░                                                      ░
+  ░   ANJALI SAHU — GitHub Profile README                ░
+  ░   Design: Minimalist RPG Dashboard                   ░
+  ░                                                      ░
+  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+-->
 
 <div align="center">
 
-<!-- ══════════════════════ ANIMATED BANNER ══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=140&section=header&fontColor=ffffff&animation=fadeIn" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=Anjali%20Sahu&fontSize=64&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20AI%20Explorer&descAlignY=62&descSize=18&animation=fadeIn" />
+<br/>
 
-<!-- ══════════════════════ HERO SECTION ══════════════════════════ -->
-
-<a href="https://github.com/anjali-2201">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3000&pause=800&color=5B8CFF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+%F0%9F%91%8B+I'm+Anjali+Sahu;Software+Engineer+%26+MERN+Developer;AI+Explorer+%7C+Problem+Solver;SWE+Intern+%40+AlgoUniversity" alt="Typing SVG" />
+<!-- SYSTEM BOOT -->
+<a href="#character">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=16&duration=2600&pause=500&color=5B8CFF&center=true&vCenter=true&width=540&lines=%3E_+PROFILE+LOADING...;%3E_+CHARACTER+DATA+FOUND...;%3E_+QUEST+LOG+ACTIVE...;%3E_+PRESS+%5B+ENTER+%5D+TO+BEGIN" alt="Boot sequence" />
 </a>
 
+<br/><br/>
+
+# ANJALI SAHU
+
+**`Software Engineer`** &nbsp;&middot;&nbsp; **`SWE Intern @ AlgoUniversity`** &nbsp;&middot;&nbsp; **`MERN + AI`**
+
 <br/>
 
-<!-- ══════════════════════ QUICK BADGES ══════════════════════════ -->
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=anjali-2201&style=for-the-badge&color=5B8CFF&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/anjali-2201?style=for-the-badge&color=7C4DFF&labelColor=0d0d1a&label=FOLLOWERS" alt="Followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-00E5FF?style=for-the-badge&labelColor=0d0d1a" alt="Focus"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-5B8CFF?style=for-the-badge&labelColor=0d0d1a" alt="Status"/>
-</p>
+[![Resume](https://img.shields.io/badge/%5B_Resume_%5D-050816?style=for-the-badge&labelColor=050816&color=5B8CFF&logo=googledrive&logoColor=5B8CFF)](https://drive.google.com/file/d/YOUR_RESUME_LINK/view)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/%5B_LinkedIn_%5D-050816?style=for-the-badge&labelColor=050816&color=0A66C2&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anjali-sahu-2201)&nbsp;
+[![LeetCode](https://img.shields.io/badge/%5B_LeetCode_%5D-050816?style=for-the-badge&labelColor=050816&color=FFA116&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/anjali-2201)
 
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br/><br/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="30"/> About Me
+<a name="character"></a>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  01 — CHARACTER                                                   -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   🚀  Building products that solve real problems                     ║
-║   🧠  Passionate about AI, systems thinking & clean architecture     ║
-║   💡  Love turning complex ideas into elegant software               ║
-║   🎯  Currently growing at the intersection of MERN & AI             ║
-║   ☕  Fuelled by curiosity, caffeine & continuous learning            ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+01+%5D+CHARACTER&fontSize=15&fontColor=5B8CFF&fontAlignY=65" width="100%" />
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 👩‍💻 Who I Am
-- 🎓 Computer Science undergraduate with a love for systems and products
-- 💼 **SWE Intern @ AlgoUniversity** — building tools that help thousands of learners
-- 🌐 Full-stack engineer comfortable across the entire stack
-- 🤖 Exploring the frontier of **Agentic AI** and **LLM-powered** products
-- 🏆 Competitive programmer — LeetCode & Codeforces enthusiast
+<div align="center">
+<img src="./assets/stats.svg" width="100%" />
+</div>
 
-</td>
-<td width="50%" valign="top">
-
-### 🌱 What Drives Me
-- Solving problems that matter at scale
-- Writing clean, maintainable, production-ready code
-- Building AI-augmented developer tooling
-- Contributing to open-source and the dev community
-- Learning something new every single day
-
-</td>
-</tr>
-</table>
+<br/><br/>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  02 — CURRENT QUEST                                               -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+02+%5D+CURRENT+QUEST&fontSize=15&fontColor=7C4DFF&fontAlignY=65" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./assets/quest.svg" width="100%" />
+</div>
+
+<br/><br/>
 
 ---
 
-## 🎯 Current Focus
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  03 — INVENTORY                                                   -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+03+%5D+INVENTORY&fontSize=15&fontColor=00E5FF&fontAlignY=65" width="100%" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/System%20Design-Mastering-5B8CFF?style=for-the-badge&labelColor=0d0d1a" /><br/>
-<sub>Scalable architectures & design patterns</sub>
+<td align="center" valign="top" width="16.6%">
+<sub><b>Languages</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark&perline=2" />
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Agentic%20AI-Exploring-7C4DFF?style=for-the-badge&labelColor=0d0d1a" /><br/>
-<sub>LangGraph · RAG · MCP · AI Agents</sub>
+<td align="center" valign="top" width="16.6%">
+<sub><b>Frontend</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark&perline=2" />
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Building-00E5FF?style=for-the-badge&labelColor=0d0d1a" /><br/>
-<sub>AWS · Docker · Kubernetes · CI/CD</sub>
+<td align="center" valign="top" width="16.6%">
+<sub><b>Backend</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,redis&theme=dark&perline=2" />
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Open%20Source-Contributing-5B8CFF?style=for-the-badge&labelColor=0d0d1a" /><br/>
-<sub>Giving back to the ecosystem</sub>
+<td align="center" valign="top" width="16.6%">
+<sub><b>Databases</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark&perline=2" />
+</td>
+<td align="center" valign="top" width="16.6%">
+<sub><b>Cloud & Ops</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions&theme=dark&perline=2" />
+</td>
+<td align="center" valign="top" width="16.6%">
+<sub><b>Tools</b></sub><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,vercel,postman,figma&theme=dark&perline=2" />
 </td>
 </tr>
 </table>
 
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-7C4DFF?style=flat-square&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MCP-5B8CFF?style=flat-square&logoColor=white" />
+
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<br/><br/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  04 — BOSS BATTLES                                                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ⟨ Languages ⟩
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css" />&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-### ⟨ Frontend ⟩
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-</p>
-
----
-
-### ⟨ Backend ⟩
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />&nbsp;
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-</p>
-
----
-
-### ⟨ Databases ⟩
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />&nbsp;
-  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
----
-
-### ⟨ AI / ML ⟩
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-7C4DFF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00E5FF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/MCP-5B8CFF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-7C4DFF?style=for-the-badge&logoColor=white" />
-</p>
-
----
-
-### ⟨ DevOps & Cloud ⟩
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions" />&nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
----
-
-### ⟨ Deployment & Tools ⟩
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,cloudflare,git,postman,figma,notion" />&nbsp;
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+04+%5D+BOSS+BATTLES&fontSize=15&fontColor=5B8CFF&fontAlignY=65" width="100%" />
 
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
----
-
-## 🚀 Featured Projects
+<br/>
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
-<h3 align="center">⚖️ Online Judge Platform</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Production-00E5FF?style=flat-square&labelColor=0d0d1a" />
-</div>
-<br/>
+<td valign="top" width="33%">
 
-**A fully functional competitive programming judge** built from the ground up — supporting custom test cases, real-time verdicts, and a rich problem-solving experience.
+<h4>⚔️ &nbsp;BOSS DEFEATED</h4>
 
-**Highlights:**
-- 🐳 **Dockerized** sandboxed code execution engine
-- ⚡ **BullMQ** job queue for async submission processing
-- 🔒 Secure JWT-based auth with role management
-- 📊 Real-time leaderboard with Socket.IO
-- 🚀 Deployed on AWS EC2
+**Online Judge Platform**
+
+Sandboxed code execution engine with real-time verdict delivery and a full competitive programming ecosystem built from zero.
+
+<sub>`React` `Node.js` `Docker` `BullMQ` `Redis` `AWS EC2`</sub>
 
 <br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
+
+[![Code](https://img.shields.io/badge/Code-050816?style=flat-square&logo=github&logoColor=5B8CFF)](https://github.com/anjali-2201)&nbsp;
+[![Live](https://img.shields.io/badge/Live_Demo-050816?style=flat-square&logo=vercel&logoColor=00E5FF)](https://github.com/anjali-2201)
+
 </td>
 
-<td width="33%" valign="top">
-<h3 align="center">🏥 MedMap</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-5B8CFF?style=flat-square&labelColor=0d0d1a" />
-</div>
-<br/>
+<td valign="top" width="33%">
 
-**An AI-powered medical navigation platform** that helps users locate hospitals, doctors & services — with intelligent recommendations and real-time availability.
+<h4>⚔️ &nbsp;BOSS DEFEATED</h4>
 
-**Highlights:**
-- 🤖 **LLM-powered** symptom triage & routing
-- 🗺️ Interactive maps with geolocation
-- 📱 Mobile-first, responsive design
-- 🔔 Appointment booking & notification system
-- 🏥 RESTful API for healthcare providers
+**MedMap**
+
+AI-powered medical navigation platform. Intelligent symptom triage, geolocation-based hospital routing, and LLM-driven recommendations.
+
+<sub>`Next.js` `TypeScript` `PostgreSQL` `OpenAI` `Prisma`</sub>
 
 <br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-</p>
+
+[![Code](https://img.shields.io/badge/Code-050816?style=flat-square&logo=github&logoColor=5B8CFF)](https://github.com/anjali-2201)&nbsp;
+[![Live](https://img.shields.io/badge/Live_Demo-050816?style=flat-square&logo=vercel&logoColor=00E5FF)](https://github.com/anjali-2201)
+
 </td>
 
-<td width="33%" valign="top">
-<h3 align="center">🌤️ WeatherSense</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Live-7C4DFF?style=flat-square&labelColor=0d0d1a" />
-</div>
-<br/>
+<td valign="top" width="33%">
 
-**A beautiful, data-rich weather application** with AI-driven insights, hourly forecasts, and location-based alerts — designed for a premium user experience.
+<h4>⚔️ &nbsp;BOSS DEFEATED</h4>
 
-**Highlights:**
-- 🌍 Real-time weather for any location globally
-- 🤖 **AI-generated** weather summaries & activity suggestions
-- 📈 7-day forecast with interactive charts
-- 🌙 Dynamic themes (day/night/storm modes)
-- 📲 PWA-ready for mobile installation
+**WeatherSense**
+
+AI-generated weather intelligence with dynamic day/night themes, 7-day forecasts, and location-based activity suggestions. PWA-ready.
+
+<sub>`React` `Tailwind CSS` `Gemini API` `Node.js` `Vercel`</sub>
 
 <br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
+
+[![Code](https://img.shields.io/badge/Code-050816?style=flat-square&logo=github&logoColor=5B8CFF)](https://github.com/anjali-2201)&nbsp;
+[![Live](https://img.shields.io/badge/Live_Demo-050816?style=flat-square&logo=vercel&logoColor=00E5FF)](https://github.com/anjali-2201)
+
 </td>
 
 </tr>
@@ -290,207 +211,175 @@
 
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<br/><br/>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  05 — SKILL TREE                                                  -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anjali-2201&show_icons=true&theme=tokyonight&bg_color=050816&border_color=5B8CFF&title_color=5B8CFF&icon_color=00E5FF&text_color=c9d1d9&hide_border=false&rank_icon=github&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-2201&theme=tokyonight&background=050816&border=5B8CFF&ring=7C4DFF&fire=00E5FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5B8CFF&sideLabels=5B8CFF&dates=888888" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-2201&layout=compact&theme=tokyonight&bg_color=050816&border_color=5B8CFF&title_color=5B8CFF&text_color=c9d1d9&hide_border=false&langs_count=10" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anjali-2201&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-2201&bg_color=050816&color=5B8CFF&line=7C4DFF&point=00E5FF&area=true&area_color=5B8CFF&hide_border=false&border_color=5B8CFF&custom_title=Anjali's%20Contribution%20Graph" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+05+%5D+SKILL+TREE&fontSize=15&fontColor=7C4DFF&fontAlignY=65" width="100%" />
 
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
----
-
-## 🐍 Contribution Snake
+<br/>
 
 <div align="center">
 
+```
+                         ┌─────────────────────────────┐
+                         │  MERN Stack · Full-Stack     │  ◀  MASTERED
+                         └──────────────┬──────────────┘
+                                        │
+                         ┌─────────────────────────────┐
+                         │  Docker · Containerization   │  ◀  MASTERED
+                         └──────────────┬──────────────┘
+                                        │
+                         ┌─────────────────────────────┐
+                         │  Redis · BullMQ · Queues     │  ◀  MASTERED
+                         └──────────────┬──────────────┘
+                                        │
+                         ┌─────────────────────────────┐
+                         │  AWS · Cloud Services        │  ◀  IN PROGRESS
+                         └──────────────┬──────────────┘
+                                        │
+                         ┌─────────────────────────────┐
+                         │  Kubernetes · Orchestration  │  ◀  LEARNING
+                         └──────────────┬──────────────┘
+                                        │
+                         ┌─────────────────────────────┐
+                         │  Distributed Systems         │  ◀  NEXT UP
+                         └──────────────┬──────────────┘
+                                        │
+                         ┌─────────────────────────────┐
+                         │  AI Agents · LLM Systems     │  ◀  ACTIVE
+                         └─────────────────────────────┘
+```
+
+</div>
+
+<br/><br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  06 — ACHIEVEMENTS                                                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+06+%5D+ACHIEVEMENTS&fontSize=15&fontColor=00E5FF&fontAlignY=65" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./assets/achievements.svg" width="100%" />
+</div>
+
+<br/><br/>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  07 — ACTIVITY LOG                                                -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+07+%5D+ACTIVITY+LOG&fontSize=15&fontColor=5B8CFF&fontAlignY=65" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anjali-2201&show_icons=true&bg_color=050816&border_color=5B8CFF&title_color=5B8CFF&icon_color=00E5FF&text_color=c9d1d9&count_private=true&rank_icon=github" />&nbsp;
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-2201&background=050816&border=5B8CFF&ring=7C4DFF&fire=00E5FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5B8CFF&sideLabels=5B8CFF&dates=888888" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-2201&bg_color=050816&color=5B8CFF&line=7C4DFF&point=00E5FF&area=true&area_color=5B8CFF&border_color=5B8CFF&custom_title=Contribution+Graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjali-2201/anjali-2201/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjali-2201/anjali-2201/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/anjali-2201/anjali-2201/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anjali-2201/anjali-2201/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
-
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<br/><br/>
 
 ---
 
-## 📚 Currently Learning
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--  08 — SAVE POINT                                                  -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="12.5%">
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" /><br/>
-  <sub><b>Kubernetes</b></sub>
-</td>
-<td align="center" width="12.5%">
-  <img src="https://skillicons.dev/icons?i=aws" width="48" /><br/>
-  <sub><b>AWS</b></sub>
-</td>
-<td align="center" width="12.5%">
-  <img src="https://skillicons.dev/icons?i=githubactions" width="48" /><br/>
-  <sub><b>CI/CD</b></sub>
-</td>
-<td align="center" width="12.5%">
-  <img src="https://img.shields.io/badge/System%20Design-5B8CFF?style=for-the-badge&logoColor=white" /><br/>
-  <sub><b>System Design</b></sub>
-</td>
-<td align="center" width="12.5%">
-  <img src="https://img.shields.io/badge/LangGraph-7C4DFF?style=for-the-badge&logoColor=white" /><br/>
-  <sub><b>LangGraph</b></sub>
-</td>
-<td align="center" width="12.5%">
-  <img src="https://img.shields.io/badge/RAG-00E5FF?style=for-the-badge&logoColor=black" /><br/>
-  <sub><b>RAG</b></sub>
-</td>
-<td align="center" width="12.5%">
-  <img src="https://img.shields.io/badge/Vector%20DBs-5B8CFF?style=for-the-badge&logoColor=white" /><br/>
-  <sub><b>Vector DBs</b></sub>
-</td>
-<td align="center" width="12.5%">
-  <img src="https://img.shields.io/badge/Agentic%20AI-7C4DFF?style=for-the-badge&logoColor=white" /><br/>
-  <sub><b>Agentic AI</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+08+%5D+SAVE+POINT&fontSize=15&fontColor=7C4DFF&fontAlignY=65" width="100%" />
+
+</div>
 
 <br/>
 
-> _"I'm not just learning tools — I'm learning how to think at scale."_
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
----
-
-## 🌐 Let's Connect
-
 <div align="center">
 
-<p>
-  <a href="https://www.linkedin.com/in/anjali-sahu-2201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anjali%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a" />
-  </a>
-  &nbsp;
-  <a href="mailto:anjalisahu2201@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-anjalisahu2201%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a" />
-  </a>
-  &nbsp;
-  <a href="https://anjali-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-5B8CFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d1a" />
-  </a>
-</p>
-
-<p>
-  <a href="https://leetcode.com/u/anjali-2201/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d0d1a" />
-  </a>
-  &nbsp;
-  <a href="https://codeforces.com/profile/anjali-2201" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0d1a" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/anjali-2201" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-anjali--2201-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a" />
-  </a>
-</p>
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
----
-
-## 📄 Resume
-
-<div align="center">
-
-<a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20%20Download%20Resume-5B8CFF?style=for-the-badge&logoColor=white&labelColor=0d0d1a" height="50" />
+<a href="https://drive.google.com/file/d/YOUR_RESUME_LINK/view">
+  <img src="https://img.shields.io/badge/Resume-View_%26_Download-5B8CFF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=050816" height="40" />
 </a>
 
 <br/><br/>
 
-> 💡 **Available for:** Full-time SWE roles · Internships · Freelance · Open Source Collaboration
+<a href="https://anjali-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-anjali--portfolio.vercel.app-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816" height="40" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/anjali-sahu-2201/">
+  <img src="https://img.shields.io/badge/LinkedIn-Anjali_Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816" height="40" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/anjali-2201/">
+  <img src="https://img.shields.io/badge/LeetCode-anjali--2201-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=050816" height="40" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:anjalisahu2201@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anjalisahu2201%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816" height="40" />
+</a>
 
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
-
----
-
-## ✨ Closing Thought
-
-<div align="center">
-
-> **_"The best way to predict the future is to build it."_**
->
-> — Alan Kay
-
-<br/>
-
-_Every commit is a step forward. Every bug is a lesson. Every shipped feature is proof of growth._
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%"/>
+<br/><br/>
 
 ---
 
 <div align="center">
 
 <sub>
-  Crafted with ❤️ by <a href="https://github.com/anjali-2201"><strong>Anjali Sahu</strong></a> &nbsp;·&nbsp; 
-  <a href="https://github.com/anjali-2201?tab=repositories">Projects</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/anjali-sahu-2201/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://anjali-portfolio.vercel.app">Portfolio</a>
+  <code>anjali-2201</code> &nbsp;&middot;&nbsp;
+  <code>Software Engineer</code> &nbsp;&middot;&nbsp;
+  <code>Building in public</code>
 </sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=100&section=footer" />
 
 </div>
-#   a n j a l i - 2 2 0 1  
- 

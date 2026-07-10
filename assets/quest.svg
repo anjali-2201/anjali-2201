@@ -1,0 +1,107 @@
+﻿<svg width="840" height="368" viewBox="0 0 840 368" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="840" y2="368" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#07061c"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="28" y1="0" x2="812" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7C4DFF"/>
+      <stop offset="100%" stop-color="#5B8CFF"/>
+    </linearGradient>
+    <filter id="glow2" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="sg2" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Check mark clip path area -->
+  </defs>
+
+  <!-- Background -->
+  <rect width="840" height="368" rx="10" fill="url(#bg2)"/>
+  <rect width="840" height="368" rx="10" fill="none" stroke="#7C4DFF" stroke-width="0.8" opacity="0.22"/>
+  <rect y="0" width="840" height="2" rx="1" fill="#7C4DFF" filter="url(#sg2)"/>
+
+  <!-- Corner brackets — purple theme -->
+  <path d="M1 32 L1 1 L32 1" fill="none" stroke="#7C4DFF" stroke-width="1.8" filter="url(#glow2)"/>
+  <path d="M808 1 L839 1 L839 32" fill="none" stroke="#7C4DFF" stroke-width="1.8" filter="url(#glow2)"/>
+  <path d="M1 336 L1 367 L32 367" fill="none" stroke="#7C4DFF" stroke-width="1.8" filter="url(#glow2)"/>
+  <path d="M808 367 L839 367 L839 336" fill="none" stroke="#7C4DFF" stroke-width="1.8" filter="url(#glow2)"/>
+
+  <!-- Section label -->
+  <text x="28" y="34" font-family="'Courier New',monospace" font-size="9" fill="#7C4DFF" letter-spacing="5" opacity="0.6">C U R R E N T   Q U E S T</text>
+
+  <!-- Quest title -->
+  <text x="28" y="66" font-family="'Courier New',monospace" font-size="17.5" fill="#ffffff" font-weight="700" filter="url(#sg2)">Build a Production-Grade Online Judge</text>
+
+  <!-- Status pill -->
+  <rect x="28" y="78" width="106" height="20" rx="5" fill="#7C4DFF" fill-opacity="0.18"/>
+  <rect x="28" y="78" width="106" height="20" rx="5" fill="none" stroke="#7C4DFF" stroke-width="0.9" opacity="0.55"/>
+  <text x="81" y="92" font-family="'Courier New',monospace" font-size="9.5" fill="#7C4DFF" text-anchor="middle" font-weight="600" letter-spacing="1">IN PROGRESS</text>
+
+  <!-- Divider -->
+  <line x1="28" y1="112" x2="812" y2="112" stroke="#7C4DFF" stroke-width="0.4" opacity="0.18"/>
+
+  <!-- Progress -->
+  <text x="28" y="132" font-family="'Courier New',monospace" font-size="10" fill="#c9d1d9" opacity="0.7" letter-spacing="2">PROGRESS</text>
+  <text x="812" y="132" font-family="'Courier New',monospace" font-size="10" fill="#7C4DFF" text-anchor="end">5 / 8 OBJECTIVES</text>
+  <rect x="28" y="138" width="784" height="7" rx="3.5" fill="#7C4DFF" fill-opacity="0.1"/>
+  <rect x="28" y="138" width="1" height="7" rx="3.5" fill="url(#bar2)">
+    <animate attributeName="width" values="1;490" dur="2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.1 0.25 1"/>
+  </rect>
+
+  <!-- Divider -->
+  <line x1="28" y1="164" x2="812" y2="164" stroke="#7C4DFF" stroke-width="0.4" opacity="0.14"/>
+  <text x="28" y="182" font-family="'Courier New',monospace" font-size="9" fill="#7C4DFF" letter-spacing="4" opacity="0.55">O B J E C T I V E S</text>
+
+  <!-- ── LEFT COLUMN (COMPLETED) ────────────────── -->
+  <!-- Authentication ✓ -->
+  <circle cx="48" cy="208" r="8" fill="#5B8CFF" fill-opacity="0.15"/>
+  <circle cx="48" cy="208" r="8" fill="none" stroke="#5B8CFF" stroke-width="1" opacity="0.6"/>
+  <text x="48" y="212.5" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="middle" font-weight="700">+</text>
+  <text x="68" y="213" font-family="'Courier New',monospace" font-size="12.5" fill="#e6edf3">Authentication System</text>
+
+  <!-- Docker Sandbox ✓ -->
+  <circle cx="48" cy="242" r="8" fill="#5B8CFF" fill-opacity="0.15"/>
+  <circle cx="48" cy="242" r="8" fill="none" stroke="#5B8CFF" stroke-width="1" opacity="0.6"/>
+  <text x="48" y="246.5" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="middle" font-weight="700">+</text>
+  <text x="68" y="247" font-family="'Courier New',monospace" font-size="12.5" fill="#e6edf3">Docker Sandbox</text>
+
+  <!-- Queue System ✓ -->
+  <circle cx="48" cy="276" r="8" fill="#5B8CFF" fill-opacity="0.15"/>
+  <circle cx="48" cy="276" r="8" fill="none" stroke="#5B8CFF" stroke-width="1" opacity="0.6"/>
+  <text x="48" y="280.5" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="middle" font-weight="700">+</text>
+  <text x="68" y="281" font-family="'Courier New',monospace" font-size="12.5" fill="#e6edf3">Queue System · BullMQ</text>
+
+  <!-- Compiler ✓ -->
+  <circle cx="48" cy="310" r="8" fill="#5B8CFF" fill-opacity="0.15"/>
+  <circle cx="48" cy="310" r="8" fill="none" stroke="#5B8CFF" stroke-width="1" opacity="0.6"/>
+  <text x="48" y="314.5" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="middle" font-weight="700">+</text>
+  <text x="68" y="315" font-family="'Courier New',monospace" font-size="12.5" fill="#e6edf3">Compiler Engine</text>
+
+  <!-- ── RIGHT COLUMN ────────────────────────────── -->
+  <!-- Custom Testcases ✓ -->
+  <circle cx="460" cy="208" r="8" fill="#5B8CFF" fill-opacity="0.15"/>
+  <circle cx="460" cy="208" r="8" fill="none" stroke="#5B8CFF" stroke-width="1" opacity="0.6"/>
+  <text x="460" y="212.5" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="middle" font-weight="700">+</text>
+  <text x="480" y="213" font-family="'Courier New',monospace" font-size="12.5" fill="#e6edf3">Custom Testcases</text>
+
+  <!-- Realtime Verdicts — pending -->
+  <circle cx="460" cy="242" r="8" fill="none" stroke="#5B8CFF" stroke-width="0.8" opacity="0.22"/>
+  <text x="480" y="247" font-family="'Courier New',monospace" font-size="12.5" fill="#c9d1d9" opacity="0.38">Realtime Verdicts</text>
+
+  <!-- AI Feedback — pending -->
+  <circle cx="460" cy="276" r="8" fill="none" stroke="#5B8CFF" stroke-width="0.8" opacity="0.22"/>
+  <text x="480" y="281" font-family="'Courier New',monospace" font-size="12.5" fill="#c9d1d9" opacity="0.38">AI Feedback Module</text>
+
+  <!-- Contest Mode — pending -->
+  <circle cx="460" cy="310" r="8" fill="none" stroke="#5B8CFF" stroke-width="0.8" opacity="0.22"/>
+  <text x="480" y="315" font-family="'Courier New',monospace" font-size="12.5" fill="#c9d1d9" opacity="0.38">Contest Mode</text>
+
+  <!-- Footer -->
+  <line x1="28" y1="338" x2="812" y2="338" stroke="#7C4DFF" stroke-width="0.4" opacity="0.14"/>
+  <text x="28" y="357" font-family="'Courier New',monospace" font-size="9.5" fill="#7C4DFF" opacity="0.4">REWARD: Production Engineer Tier</text>
+  <text x="812" y="357" font-family="'Courier New',monospace" font-size="9.5" fill="#5B8CFF" opacity="0.4" text-anchor="end">62.5% COMPLETE  ·  EXP: +4500</text>
+</svg>

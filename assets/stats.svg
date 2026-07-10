@@ -1,0 +1,108 @@
+﻿<svg width="840" height="292" viewBox="0 0 840 292" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="840" y2="292" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#06091c"/>
+    </linearGradient>
+    <linearGradient id="barL" x1="0" y1="0" x2="340" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#5B8CFF"/>
+      <stop offset="100%" stop-color="#7C4DFF"/>
+    </linearGradient>
+    <linearGradient id="barR" x1="434" y1="0" x2="782" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#5B8CFF"/>
+      <stop offset="100%" stop-color="#7C4DFF"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="840" height="292" rx="10" fill="url(#bg)"/>
+  <rect width="840" height="292" rx="10" fill="none" stroke="#5B8CFF" stroke-width="0.8" opacity="0.22"/>
+
+  <!-- Top accent bar -->
+  <rect y="0" width="840" height="2" rx="1" fill="#5B8CFF" filter="url(#softglow)"/>
+
+  <!-- Corner brackets — TL -->
+  <path d="M1 32 L1 1 L32 1" fill="none" stroke="#5B8CFF" stroke-width="1.8" filter="url(#glow)"/>
+  <!-- TR -->
+  <path d="M808 1 L839 1 L839 32" fill="none" stroke="#5B8CFF" stroke-width="1.8" filter="url(#glow)"/>
+  <!-- BL -->
+  <path d="M1 260 L1 291 L32 291" fill="none" stroke="#5B8CFF" stroke-width="1.8" filter="url(#glow)"/>
+  <!-- BR -->
+  <path d="M808 291 L839 291 L839 260" fill="none" stroke="#5B8CFF" stroke-width="1.8" filter="url(#glow)"/>
+
+  <!-- Section label -->
+  <text x="28" y="34" font-family="'Courier New',monospace" font-size="9" fill="#5B8CFF" letter-spacing="5" opacity="0.6">C H A R A C T E R   S T A T S</text>
+
+  <!-- Name -->
+  <text x="28" y="62" font-family="'Courier New',monospace" font-size="20" fill="#ffffff" font-weight="700" letter-spacing="1.5" filter="url(#softglow)">ANJALI_SAHU.exe</text>
+
+  <!-- Class info -->
+  <text x="28" y="80" font-family="'Courier New',monospace" font-size="10.5" fill="#7C4DFF" opacity="0.85">Full Stack Engineer  ·  SWE Intern @ AlgoUniversity  ·  Class: MERN + AI</text>
+
+  <!-- Divider -->
+  <line x1="28" y1="94" x2="812" y2="94" stroke="#5B8CFF" stroke-width="0.5" opacity="0.18"/>
+
+  <!-- ── ROW 1 ───────────────────────────────────────────── -->
+  <!-- Backend (88%) — Left: x=28, max=340 -->
+  <text x="28" y="120" font-family="'Courier New',monospace" font-size="11.5" fill="#c9d1d9">Backend</text>
+  <text x="406" y="120" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="end">88</text>
+  <rect x="28" y="126" width="340" height="5" rx="2.5" fill="#5B8CFF" fill-opacity="0.1"/>
+  <rect x="28" y="126" width="1" height="5" rx="2.5" fill="url(#barL)">
+    <animate attributeName="width" values="1;299" dur="1.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.1 0.25 1"/>
+  </rect>
+
+  <!-- Frontend (82%) — Right: x=434, max=348 -->
+  <text x="434" y="120" font-family="'Courier New',monospace" font-size="11.5" fill="#c9d1d9">Frontend</text>
+  <text x="812" y="120" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="end">82</text>
+  <rect x="434" y="126" width="348" height="5" rx="2.5" fill="#5B8CFF" fill-opacity="0.1"/>
+  <rect x="434" y="126" width="1" height="5" rx="2.5" fill="url(#barR)">
+    <animate attributeName="width" values="1;285" dur="1.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.1 0.25 1"/>
+  </rect>
+
+  <!-- ── ROW 2 ───────────────────────────────────────────── -->
+  <!-- Problem Solving (90%) — Left -->
+  <text x="28" y="162" font-family="'Courier New',monospace" font-size="11.5" fill="#c9d1d9">Problem Solving</text>
+  <text x="406" y="162" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="end">90</text>
+  <rect x="28" y="168" width="340" height="5" rx="2.5" fill="#5B8CFF" fill-opacity="0.1"/>
+  <rect x="28" y="168" width="1" height="5" rx="2.5" fill="url(#barL)">
+    <animate attributeName="width" values="1;306" dur="1.8s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.1 0.25 1"/>
+  </rect>
+
+  <!-- DevOps (65%) — Right -->
+  <text x="434" y="162" font-family="'Courier New',monospace" font-size="11.5" fill="#c9d1d9">DevOps</text>
+  <text x="812" y="162" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="end">65</text>
+  <rect x="434" y="168" width="348" height="5" rx="2.5" fill="#5B8CFF" fill-opacity="0.1"/>
+  <rect x="434" y="168" width="1" height="5" rx="2.5" fill="url(#barR)">
+    <animate attributeName="width" values="1;226" dur="1.3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.1 0.25 1"/>
+  </rect>
+
+  <!-- ── ROW 3 ───────────────────────────────────────────── -->
+  <!-- AI / ML (72%) — Left -->
+  <text x="28" y="204" font-family="'Courier New',monospace" font-size="11.5" fill="#c9d1d9">AI / ML</text>
+  <text x="406" y="204" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="end">72</text>
+  <rect x="28" y="210" width="340" height="5" rx="2.5" fill="#5B8CFF" fill-opacity="0.1"/>
+  <rect x="28" y="210" width="1" height="5" rx="2.5" fill="url(#barL)">
+    <animate attributeName="width" values="1;245" dur="1.45s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.1 0.25 1"/>
+  </rect>
+
+  <!-- System Design (68%) — Right -->
+  <text x="434" y="204" font-family="'Courier New',monospace" font-size="11.5" fill="#c9d1d9">System Design</text>
+  <text x="812" y="204" font-family="'Courier New',monospace" font-size="10" fill="#5B8CFF" text-anchor="end">68</text>
+  <rect x="434" y="210" width="348" height="5" rx="2.5" fill="#5B8CFF" fill-opacity="0.1"/>
+  <rect x="434" y="210" width="1" height="5" rx="2.5" fill="url(#barR)">
+    <animate attributeName="width" values="1;237" dur="1.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 0.1 0.25 1"/>
+  </rect>
+
+  <!-- Footer divider -->
+  <line x1="28" y1="242" x2="812" y2="242" stroke="#5B8CFF" stroke-width="0.4" opacity="0.14"/>
+  <text x="28" y="262" font-family="'Courier New',monospace" font-size="9.5" fill="#5B8CFF" opacity="0.38">CLASS: MERN + AI SPECIALIST</text>
+  <text x="812" y="262" font-family="'Courier New',monospace" font-size="9.5" fill="#7C4DFF" opacity="0.5" text-anchor="end">XP: INFINITE  ·  STATUS: LEVELING UP</text>
+</svg>
