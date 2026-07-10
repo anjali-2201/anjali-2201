@@ -1,20 +1,10 @@
-﻿<!--
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  ░                                                      ░
-  ░   ANJALI SAHU — GitHub Profile README                ░
-  ░                     ░
-  ░                                                      ░
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
--->
+﻿<div align="center">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=140&section=header&fontColor=ffffff&animation=fadeIn" />
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=120&section=header&fontColor=ffffff&animation=fadeIn" />
 # ANJALI SAHU
 
-**`Software Engineer`** &nbsp;&middot;&nbsp; **`SWE Intern @ AlgoUniversity`** &nbsp;&middot;&nbsp;
+**`Software Engineer`** &nbsp;&middot;&nbsp; **`SWE Intern @ AlgoUniversity`**;
+**`Always Evolving`**;
 
 <br/>
 
