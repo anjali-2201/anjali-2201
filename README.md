@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+%5D+INVENTORY&fontSize=15&fontColor=00E5FF&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=INVENTORY&fontSize=15&fontColor=00E5FF&fontAlignY=65" width="100%" />
 
 </div>
 
@@ -99,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+%5D+ACTIVITY+LOG&fontSize=15&fontColor=5B8CFF&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=ACTIVITY+LOG&fontSize=15&fontColor=5B8CFF&fontAlignY=65" width="100%" />
 
 </div>
 
