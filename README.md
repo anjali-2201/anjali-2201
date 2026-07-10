@@ -22,8 +22,8 @@
 [![Resume](https://img.shields.io/badge/%5B_Resume_%5D-050816?style=for-the-badge&labelColor=050816&color=5B8CFF&logo=googledrive&logoColor=5B8CFF)](https://drive.google.com/file/d/YOUR_RESUME_LINK/view)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%5B_LinkedIn_%5D-050816?style=for-the-badge&labelColor=050816&color=0A66C2&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anjali0122)&nbsp;
 [![LeetCode](https://img.shields.io/badge/%5B_LeetCode_%5D-050816?style=for-the-badge&labelColor=050816&color=FFA116&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/annzzli)
-[![Email](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:anjalisahu0122@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-anjali--portfolio.vercel.app-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816)](mailto:anjalisahu0122@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Email%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816)](mailto:anjalisahu0122@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-anjali--portfolio.vercel.app-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816)](mailto:anjalisahu0122@gmail.com) -->
 
 </div>
 
@@ -34,7 +34,7 @@
 <a name="character"></a>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  03 — INVENTORY                                                   -->
+<!--  INVENTORY                                                   -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -94,7 +94,7 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  07 — ACTIVITY LOG                                                -->
+<!--  ACTIVITY LOG                                                -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
