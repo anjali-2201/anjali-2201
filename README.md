@@ -103,7 +103,7 @@
 <div align="center">
 <!-- 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anjali-2201&show_icons=true&bg_color=050816&border_color=5B8CFF&title_color=5B8CFF&icon_color=00E5FF&text_color=c9d1d9&count_private=true&rank_icon=github" />&nbsp;
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-2201&background=050816&border=5B8CFF&ring=7C4DFF&fire=00E5FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5B8CFF&sideLabels=5B8CFF&dates=888888" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-2201&background=050816&border=5B8CFF&ring=7C4DFF&fire=00E5FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5B8CFF&sideLabels=5B8CFF&dates=888888" /> -->
 
 <br/><br/> -->
 
