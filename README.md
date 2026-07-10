@@ -13,13 +13,6 @@
 
 <br/>
 
-<!-- SYSTEM BOOT -->
-<a href="#character">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=16&duration=2600&pause=500&color=5B8CFF&center=true&vCenter=true&width=540&lines=%3E_+PROFILE+LOADING...;%3E_+CHARACTER+DATA+FOUND...;%3E_+QUEST+LOG+ACTIVE...;%3E_+PRESS+%5B+ENTER+%5D+TO+BEGIN" alt="Boot sequence" />
-</a>
-
-<br/><br/>
-
 # ANJALI SAHU
 
 **`Software Engineer`** &nbsp;&middot;&nbsp; **`SWE Intern @ AlgoUniversity`** &nbsp;&middot;&nbsp; **`MERN + AI`**
@@ -29,7 +22,7 @@
 [![Resume](https://img.shields.io/badge/%5B_Resume_%5D-050816?style=for-the-badge&labelColor=050816&color=5B8CFF&logo=googledrive&logoColor=5B8CFF)](https://drive.google.com/file/d/YOUR_RESUME_LINK/view)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%5B_LinkedIn_%5D-050816?style=for-the-badge&labelColor=050816&color=0A66C2&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/anjali-sahu-2201)&nbsp;
 [![LeetCode](https://img.shields.io/badge/%5B_LeetCode_%5D-050816?style=for-the-badge&labelColor=050816&color=FFA116&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/anjali-2201)
-[![Email](https://img.shields.io/badge/Email-anjalisahu2201%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816)](mailto:anjalisahu0122@gmail.com)
+[![Email](https://img.shields.io/badge/Email?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816)](mailto:anjalisahu0122@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-anjali--portfolio.vercel.app-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816)](mailto:anjalisahu0122@gmail.com) -->
 
 </div>
@@ -94,26 +87,6 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/MCP-5B8CFF?style=flat-square&logoColor=white" />
 
-</div>
-
-<br/><br/>
-
----
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  06 — ACHIEVEMENTS                                                -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a1f&height=38&text=%5B+06+%5D+ACHIEVEMENTS&fontSize=15&fontColor=00E5FF&fontAlignY=65" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="./assets/achievements.svg" width="100%" />
 </div>
 
 <br/><br/>
