@@ -2,7 +2,7 @@
   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
   ░                                                      ░
   ░   ANJALI SAHU — GitHub Profile README                ░
-  ░   Design: Minimalist RPG Dashboard                   ░
+  ░                     ░
   ░                                                      ░
   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 -->
@@ -11,11 +11,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=140&section=header&fontColor=ffffff&animation=fadeIn" />
 
-<br/>
 
 # ANJALI SAHU
 
-**`Software Engineer`** &nbsp;&middot;&nbsp; **`SWE Intern @ AlgoUniversity`** &nbsp;&middot;&nbsp; **`MERN + AI`**
+**`Software Engineer`** &nbsp;&middot;&nbsp; **`SWE Intern @ AlgoUniversity`** &nbsp;&middot;&nbsp;
 
 <br/>
 
@@ -26,8 +25,6 @@
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-anjali--portfolio.vercel.app-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816)](mailto:anjalisahu0122@gmail.com) -->
 
 </div>
-
-<br/><br/>
 
 ---
 
@@ -89,7 +86,7 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 ---
 
@@ -125,5 +122,3 @@
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/anjali-2201/anjali-2201/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 </div>
-
-<br/><br/>
